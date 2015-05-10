@@ -1,5 +1,0 @@
-title: Hello!
-baseURL: http://somewhere.earth/
-scripts:
-  before:
-    - cp -R assets website/
